@@ -1,6 +1,6 @@
-package excersice1;
+package exercise1;
 
-public class Excersice {
+public class Exercise {
     public static void main(String[] args) {
     /*skapa ett program som använder tre tal, programmet beräknar och skriver ut summan samt medelvärdet av de tre talen.*/
     int one = 2;
