@@ -7,6 +7,7 @@ public class HelloWorld {
         Scanner scan = new Scanner(System.in);
         String text = scan.nextLine();
 
+        System.out.println(" Hello World!");
         System.out.println("Du skrev: " +text);
 
         int number = Integer.parseInt(scan.nextLine());
